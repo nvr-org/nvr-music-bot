@@ -1,0 +1,11 @@
+.git
+.gitignore
+node_modules
+*.txt
+*.md
+.env
+*.env.*
+.kiro
+fly.toml
+Dockerfile
+.dockerignore

@@ -1,0 +1,6 @@
+node_modules/
+*.txt
+.env
+*.env.*
+# لا ترفع أي fly.toml يحتوي على توكن (احتياط)
+# التوكنات تتحط في Fly secrets فقط

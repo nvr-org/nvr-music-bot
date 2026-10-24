@@ -1,0 +1,14 @@
+{
+  "name": "nvr-music-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@discordjs/voice": "0.19.2",
+    "discord.js": "14.19.3"
+  }
+}
